@@ -1,0 +1,9 @@
+{
+  "name": "jeux-js",
+  "version": "0.0.0",
+  "description": "JeuxJS",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
